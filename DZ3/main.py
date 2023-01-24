@@ -1,4 +1,3 @@
-from typing import Set, Any
 
 string = "Python is the best programming language in the world"
 print(string[6:-7])
